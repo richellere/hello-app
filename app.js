@@ -1,1 +1,1 @@
-console.log("Hello Docker! - Generated from CI/CD GitHub Actions :)")
+console.log("Hello Docker! - BTEC - Generated from CI/CD GitHub Actions :)")
